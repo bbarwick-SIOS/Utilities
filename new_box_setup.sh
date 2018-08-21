@@ -13,4 +13,4 @@ cpan XML::DOM
 cpan JSON
 cpan Crypt::OpenSSL::RSA
 apt-get install dpkg-sig
-apt-get install reprepr
+apt-get install reprepro
